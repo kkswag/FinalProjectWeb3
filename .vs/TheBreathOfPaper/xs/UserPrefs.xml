@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Arduino_Initial.cs">
+    <Files>
+      <File FileName="Assets/Arduino_Initial.cs" Line="8" Column="70" />
+      <File FileName="Assets/hero_Script.cs" />
+      <File FileName="Assets/Agent_Script.cs" />
+      <File FileName="Assets/coin_script.cs" />
+      <File FileName="Assets/bg_script.cs" />
+      <File FileName="Assets/start_script.cs" />
+      <File FileName="Assets/scorecoin_script.cs" />
+      <File FileName="Assets/calculate_script.cs" />
+      <File FileName="Assets/total_script.cs" />
+      <File FileName="Assets/age_script.cs" />
+      <File FileName="Assets/timeCount_script.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="TheBreathOfPaper" expanded="True">
+            <Node name="Assembly-CSharp" expanded="True">
+              <Node name="Assets" expanded="True">
+                <Node name="Arduino_Initial.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a309bd56-9407-434c-b55d-c679cdbe567b" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
